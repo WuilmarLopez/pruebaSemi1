@@ -4,7 +4,7 @@ const port = 5000;
 
 // Definir el endpoint raíz "/"
 app.get('/', (req, res) => {
-    res.send('Hola, mundo');
+    res.send('Hola, mundo nodejs');
 });
 
 // Iniciar el servidor
